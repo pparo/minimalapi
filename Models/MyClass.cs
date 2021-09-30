@@ -1,0 +1,1 @@
+public record MyClass(Guid Id, string MyString);
